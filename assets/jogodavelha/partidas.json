@@ -1,0 +1,170 @@
+{
+  "120363418304004427@g.us": {
+    "tabuleiro": [
+      "1️⃣",
+      "2️⃣",
+      "3️⃣",
+      "4️⃣",
+      "❌",
+      "6️⃣",
+      "7️⃣",
+      "8️⃣",
+      "9️⃣"
+    ],
+    "jogador1": "553196175431@s.whatsapp.net",
+    "jogador2": "5521974179972@s.whatsapp.net",
+    "atual": "5521974179972@s.whatsapp.net",
+    "simbolos": {
+      "553196175431@s.whatsapp.net": "❌",
+      "5521974179972@s.whatsapp.net": "⭕"
+    },
+    "contraBot": false
+  },
+  "120363421800596337@g.us": {
+    "tabuleiro": [
+      "1️⃣",
+      "2️⃣",
+      "3️⃣",
+      "4️⃣",
+      "❌",
+      "6️⃣",
+      "7️⃣",
+      "8️⃣",
+      "9️⃣"
+    ],
+    "jogador1": "559184770841@s.whatsapp.net",
+    "jogador2": "6285812209248@s.whatsapp.net",
+    "atual": "6285812209248@s.whatsapp.net",
+    "simbolos": {
+      "559184770841@s.whatsapp.net": "❌",
+      "6285812209248@s.whatsapp.net": "⭕"
+    },
+    "contraBot": false
+  },
+  "120363420377426922@g.us": {
+    "tabuleiro": [
+      "❌",
+      "⭕",
+      "3️⃣",
+      "4️⃣",
+      "❌",
+      "6️⃣",
+      "⭕",
+      "❌",
+      "⭕"
+    ],
+    "jogador1": "554984288187@s.whatsapp.net",
+    "jogador2": "555198048695@s.whatsapp.net",
+    "atual": "554984288187@s.whatsapp.net",
+    "simbolos": {
+      "554984288187@s.whatsapp.net": "❌",
+      "555198048695@s.whatsapp.net": "⭕"
+    },
+    "contraBot": false
+  },
+  "120363421625290567@g.us": {
+    "tabuleiro": [
+      "1️⃣",
+      "2️⃣",
+      "3️⃣",
+      "4️⃣",
+      "5️⃣",
+      "6️⃣",
+      "7️⃣",
+      "8️⃣",
+      "9️⃣"
+    ],
+    "jogador1": "5517992502324@s.whatsapp.net",
+    "jogador2": "556293317846@s.whatsapp.net",
+    "atual": "5517992502324@s.whatsapp.net",
+    "simbolos": {
+      "5517992502324@s.whatsapp.net": "❌",
+      "556293317846@s.whatsapp.net": "⭕"
+    },
+    "contraBot": false
+  },
+  "120363402387881308@g.us": {
+    "tabuleiro": [
+      "❌",
+      "2️⃣",
+      "3️⃣",
+      "4️⃣",
+      "5️⃣",
+      "6️⃣",
+      "7️⃣",
+      "8️⃣",
+      "9️⃣"
+    ],
+    "jogador1": "105824336756815@lid",
+    "jogador2": "179053361426591@lid",
+    "atual": "179053361426591@lid",
+    "simbolos": {
+      "105824336756815@lid": "❌",
+      "179053361426591@lid": "⭕"
+    },
+    "contraBot": false
+  },
+  "120363403768923152@g.us": {
+    "tabuleiro": [
+      "1️⃣",
+      "2️⃣",
+      "3️⃣",
+      "4️⃣",
+      "5️⃣",
+      "6️⃣",
+      "7️⃣",
+      "8️⃣",
+      "9️⃣"
+    ],
+    "jogador1": "556391157044@s.whatsapp.net",
+    "jogador2": "5521974179972@s.whatsapp.net",
+    "atual": "556391157044@s.whatsapp.net",
+    "simbolos": {
+      "556391157044@s.whatsapp.net": "❌",
+      "5521974179972@s.whatsapp.net": "⭕"
+    },
+    "contraBot": false
+  },
+  "120363402854575244@g.us": {
+    "tabuleiro": [
+      "❌",
+      "2️⃣",
+      "3️⃣",
+      "4️⃣",
+      "5️⃣",
+      "6️⃣",
+      "7️⃣",
+      "8️⃣",
+      "9️⃣"
+    ],
+    "jogador1": "558296317588@s.whatsapp.net",
+    "jogador2": "244946415793@s.whatsapp.net",
+    "atual": "244946415793@s.whatsapp.net",
+    "simbolos": {
+      "558296317588@s.whatsapp.net": "❌",
+      "244946415793@s.whatsapp.net": "⭕"
+    },
+    "contraBot": false
+  },
+  "120363402995393741@g.us": {
+    "tabuleiro": [
+      "1️⃣",
+      "2️⃣",
+      "3️⃣",
+      "4️⃣",
+      "5️⃣",
+      "6️⃣",
+      "7️⃣",
+      "8️⃣",
+      "9️⃣"
+    ],
+    "jogador1": "559984686441@s.whatsapp.net",
+    "jogador2": "556184182145@s.whatsapp.net",
+    "atual": "559984686441@s.whatsapp.net",
+    "simbolos": {
+      "559984686441@s.whatsapp.net": "❌",
+      "556184182145@s.whatsapp.net": "⭕"
+    },
+    "contraBot": false
+  }
+}

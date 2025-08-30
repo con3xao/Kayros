@@ -1,0 +1,37 @@
+{
+  "120363421316753363@g.us": {
+    "enabled": true,
+    "message": "👋 Seja bem-vindo(a), @{{numero}}!\n\n📌 Apresentação:\n📸 Foto: (visualização única)\n🎂 Idade:\n📍 Estado:\n\n⚠️ Leia as regras para evitar ser banido(a).\n🤖 Prefixo do bot: !\n\n✨ Seja muito bem-vindo(a) ao grupo {{grupo}}."
+  },
+  "120363421588400677@g.us": {
+    "enabled": true,
+    "message": "👋 Seja bem-vindo(a), @{{numero}}!\n\n📌 Apresentação:\n📸 Foto: (visualização única)\n🎂 Idade:\n📍 Estado:\n\n⚠️ Leia as regras para evitar ser banido(a).\n🤖 Prefixo do bot: !\n\n✨ Seja muito bem-vindo(a) ao grupo {{grupo}}."
+  },
+  "120363419508488941@g.us": {
+    "enabled": true,
+    "message": "👋 Seja bem-vindo(a), @{{numero}}!\n\n📌 Apresentação:\n📸 Foto: (visualização única)\n🎂 Idade:\n📍 Estado:\n\n⚠️ Leia as regras para evitar ser banido(a).\n🤖 Prefixo do bot: !\n\n✨ Seja muito bem-vindo(a) ao grupo {{grupo}}."
+  },
+  "120363402854575244@g.us": {
+    "enabled": true
+  },
+  "120363400244469422@g.us": {
+    "enabled": true
+  },
+  "120363420377426922@g.us": {
+    "enabled": true,
+    "message": "👋 Seja bem-vindo(a), @{{numero}}!\n\n📌 Apresentação:\n📸 Foto: (visualização única)\n🎂 Idade:\n📍 Estado:\n\n⚠️ Leia as regras para evitar ser banido(a).\n🤖 Prefixo do bot: !\n\n✨ Seja muito bem-vindo(a) ao grupo {{grupo}}."
+  },
+  "120363419880493062@g.us": {
+    "enabled": true,
+    "message": "Bem vindo(a)\n\n👾 @{{numero}}. •ENTROU SE APRESENTA•\n📸 •FOTO\n👻 •NOME\n📌 •ESTADO\n🗓️ •IDADE\n⚠️ •LEIA AS REGRAS DO GRUPO\n\n*APROVEITE O GRUPO {{grupo}}.!*"
+  },
+  "120363419894334476@g.us": {
+    "enabled": true
+  },
+  "120363420329079219@g.us": {
+    "enabled": true
+  },
+  "120363402995393741@g.us": {
+    "enabled": true
+  }
+}

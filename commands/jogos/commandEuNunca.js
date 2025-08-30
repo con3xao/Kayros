@@ -1,0 +1,55 @@
+const frases = [
+  "Eu nunca ficaria com alguem do grupo",
+  "Eu nunca fiquei sem tomar banho por 2 dias",
+  "Eu nunca menti para um professor",
+  "Eu nunca enviei mensagem bêbado(a)",
+  "Eu nunca chorei por amor",
+  "Eu nunca peguei crush de amigo",
+  "Eu nunca mandei mensagem e me arrependi depois",
+  "Eu nunca beijei duas pessoas no mesmo dia",
+  "Eu nunca disse 'eu te amo' sem sentir",
+  "Eu nunca fucei o celular de alguém escondido",
+  "Eu nunca fui ignorado por alguém que eu gostava",
+  "Eu nunca fingi que estava dormindo pra evitar alguém",
+  "Eu nunca curti foto antiga de ex sem querer",
+  "Eu nunca inventei uma desculpa pra não sair",
+  "Eu nunca dormi durante uma aula",
+  "Eu nunca peidei e culpei outra pessoa",
+  "Eu nunca tive um crush por alguém comprometido",
+  "Eu nunca menti sobre onde estava",
+  "Eu nunca stalkeei o ex do meu ex",
+  "Eu nunca deixei de responder por preguiça",
+  "Eu nunca fiquei com alguém só por carência",
+  "Eu nunca me declarei e fui ignorado(a)",
+  "Eu nunca fui bloqueado por alguém do grupo",
+  "Eu nunca fui dormir chorando",
+  "Eu nunca peguei alguém pensando em outra pessoa",
+  "Eu nunca me apaixonei pela pessoa errada",
+  "Eu nunca menti pra não ir à escola/trabalho",
+  "Eu nunca me arrependi logo depois de ficar com alguém",
+  "Eu nunca pensei em sumir por uns dias",
+  "Eu nunca fingi estar feliz quando não estava",
+  "Eu nunca deletei uma mensagem por vergonha",
+  "Eu nunca fui deixado no vácuo por alguém especial",
+  "Eu nunca quis voltar com o/a ex",
+  "Eu nunca fingi estar ocupado pra não conversar",
+  "Eu nunca beijei alguém que nem lembro o nome",
+  "Eu nunca me apaixonei por alguém só pela voz",
+  "Eu nunca tive ciúmes sem ter motivo",
+  "Eu nunca fui expulso de um grupo",
+  "Eu nunca fiz algo só pra chamar atenção",
+  "Eu nunca fui pego(a) stalkeando",
+  "Eu nunca sonhei com alguém do grupo",
+  "Eu nunca fiquei com ex de amigo(a)",
+  "Eu nunca troquei o nome da pessoa na hora errada",
+  "Eu nunca chorei por um crush que nem sabia",
+  "Eu nunca briguei por mensagem",
+  "Eu nunca fui rejeitado(a) na frente de todo mundo"
+];
+
+async function commandEuNunca(enviarMensagem) {
+  const frase = frases[Math.floor(Math.random() * frases.length)];
+  await enviarMensagem(`🙋 *EU NUNCA...*\n${frase}`);
+}
+
+module.exports = { commandEuNunca };
